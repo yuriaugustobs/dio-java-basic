@@ -1,2 +1,2 @@
 # dio-java-basic
-Repository for tests and exercises Dio course "Java Basics" by Claro.
+Repository for tests and exercises of Dio course "Java Basics" by Claro.
