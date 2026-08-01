@@ -225,7 +225,7 @@ section {
 }
 
 .btn-cta:hover {
-    background-color: #33691E;
+    background-color: var(--color-olive-darker);
     transform: translateY(-2px);
     box-shadow: var(--shadow-md);
 }
@@ -501,7 +501,7 @@ textarea {
 }
 
 .cta .btn-cta:hover {
-    background-color: #33691E;
+    background-color: var(--color-olive-darker);
 }
 
 footer {
