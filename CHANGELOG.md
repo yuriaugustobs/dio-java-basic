@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-02 — Criar arquivo SSE-TEST.md na raiz do repositório
+
+Criar um novo arquivo Markdown chamado `SSE-TEST.md` no diretório raiz do projeto, contendo exatamente a string: `teste de streaming SSE do Morpheus`.
+
+
 ## 2026-08-02 — Criar arquivo DIRECT-TEST.md na raiz do repositório
 
 Criar o arquivo DIRECT-TEST.md na raiz do repositório contendo exatamente o texto "Teste de merge direct do Morpheus."
