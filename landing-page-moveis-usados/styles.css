@@ -2,6 +2,7 @@
     --color-primary: #5D4037;
     --color-secondary: #8D6E63;
     --color-accent: #7CB342;
+    --color-olive-light: #A5D6A7;
     --color-bg: #FAFAF5;
     --color-text: #3E2723;
     --color-light: #FFFFFF;
@@ -179,6 +180,11 @@ input, textarea {
     border-radius: 6px;
     font-family: inherit;
     font-size: 1rem;
+}
+
+input:focus-visible, textarea:focus-visible {
+    outline: 3px solid var(--color-olive-light);
+    outline-offset: 3px;
 }
 
 .cta {
